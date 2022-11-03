@@ -1207,3 +1207,341 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.03-06.11.26:282][996]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_Inventory39ACA3B04DBA85C29633B2AFA3CD66FA.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Bluerprints/BlueprintComponents/BPC_Inventory.uasset'
 [2022.11.03-06.11.26:293][996]AssetCheck: New page: Asset Save: BPC_Inventory
 [2022.11.03-06.11.26:293][996]LogContentValidation: Display: Validating Blueprint /Game/Bluerprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2022.11.03-06.13.20:715][946]BlueprintLog: New page: Compile BPC_Inventory
+[2022.11.03-06.13.20:751][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.03-06.14.43:214][917]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameBP/HG_PlayerController.HG_PlayerController
+[2022.11.03-06.14.43:214][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-06.15.38:013][149]BlueprintLog: New page: Compile HG_PlayerController
+[2022.11.03-06.15.38:058][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.11.03-06.15.38:672][178]LogSavePackage: Moving output files for package: /Game/GameBP/HG_PlayerController
+[2022.11.03-06.15.38:673][178]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/HG_PlayerController4E5774B74A85B8F4E0F312A48727CB03.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/GameBP/HG_PlayerController.uasset'
+[2022.11.03-06.15.38:687][178]AssetCheck: New page: Asset Save: HG_PlayerController
+[2022.11.03-06.15.38:687][178]LogContentValidation: Display: Validating Blueprint /Game/GameBP/HG_PlayerController.HG_PlayerController
+[2022.11.03-06.15.59:899][445]BlueprintLog: New page: Compile HG_PlayerController
+[2022.11.03-06.15.59:942][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.03-06.16.00:562][474]LogSavePackage: Moving output files for package: /Game/GameBP/HG_PlayerController
+[2022.11.03-06.16.00:563][474]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/HG_PlayerController09DF777E4EC1397DA14FC69469ED6493.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/GameBP/HG_PlayerController.uasset'
+[2022.11.03-06.16.00:575][474]AssetCheck: New page: Asset Save: HG_PlayerController
+[2022.11.03-06.16.00:575][474]LogContentValidation: Display: Validating Blueprint /Game/GameBP/HG_PlayerController.HG_PlayerController
+[2022.11.03-06.18.21:567][154]LogSavePackage: Moving output files for package: /Game/Bluerprints/BlueprintComponents/BPC_Inventory
+[2022.11.03-06.18.21:568][154]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_Inventory7695D5784B6565DF9DF2ACA3595E7800.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Bluerprints/BlueprintComponents/BPC_Inventory.uasset'
+[2022.11.03-06.18.21:583][154]AssetCheck: New page: Asset Save: BPC_Inventory
+[2022.11.03-06.18.21:583][154]LogContentValidation: Display: Validating Blueprint /Game/Bluerprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2022.11.03-06.18.21:839][170]BlueprintLog: New page: Compile BPC_Inventory
+[2022.11.03-06.18.21:880][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.03-06.18.28:823][571]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2022.11.03-06.18.28:823][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-06.18.28:840][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-06.18.28:848][571]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.11.03-06.18.29:133][571]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.03-06.18.29:133][571]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.03-06.18.29:272][571]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.11.03-06.19.17:480][  9]BlueprintLog: New page: Compile BPC_Inventory
+[2022.11.03-06.19.17:565][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.03-06.19.42:564][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.03-06.19.42:567][130]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.048
+[2022.11.03-06.19.42:568][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluerprints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2022.11.03-06.19.42:568][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluerprints/BlueprintComponents/BPC_Inventory]
+[2022.11.03-06.19.42:585][130]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bluerprints/BlueprintComponents/BPC_Inventory_Auto2
+[2022.11.03-06.19.42:586][130]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_Inventory_Auto217566BC94418AC70F58F8AB688C83E86.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/Autosaves/Game/Bluerprints/BlueprintComponents/BPC_Inventory_Auto2.uasset'
+[2022.11.03-06.19.42:587][130]LogFileHelpers: Auto-saving content packages took 0.019
+[2022.11.03-06.20.43:101][ 33]BlueprintLog: New page: Compile BPC_Inventory
+[2022.11.03-06.20.43:148][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.03-06.20.43:631][ 76]LogSavePackage: Moving output files for package: /Game/Bluerprints/BlueprintComponents/BPC_Inventory
+[2022.11.03-06.20.43:632][ 76]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_InventoryE42FC8EB420C772F361B83877BC6E1E8.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Bluerprints/BlueprintComponents/BPC_Inventory.uasset'
+[2022.11.03-06.20.43:645][ 76]AssetCheck: New page: Asset Save: BPC_Inventory
+[2022.11.03-06.20.43:645][ 76]LogContentValidation: Display: Validating Blueprint /Game/Bluerprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2022.11.03-06.20.45:165][249]BlueprintLog: New page: Compile HG_PlayerController
+[2022.11.03-06.20.45:220][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.03-06.20.45:606][276]LogSavePackage: Moving output files for package: /Game/GameBP/HG_PlayerController
+[2022.11.03-06.20.45:606][276]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/HG_PlayerController1A7D8A1B47BBD8C815A0E78F738D8BA2.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/GameBP/HG_PlayerController.uasset'
+[2022.11.03-06.20.45:618][276]AssetCheck: New page: Asset Save: HG_PlayerController
+[2022.11.03-06.20.45:618][276]LogContentValidation: Display: Validating Blueprint /Game/GameBP/HG_PlayerController.HG_PlayerController
+[2022.11.03-06.20.46:984][426]BlueprintLog: New page: Compile W_InventorySlot
+[2022.11.03-06.20.47:025][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.03-06.20.47:445][463]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventorySlot
+[2022.11.03-06.20.47:445][463]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/W_InventorySlot6917295A423A7CF5DCD45DBB13AA0015.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/UMG/Inventory/W_InventorySlot.uasset'
+[2022.11.03-06.20.47:459][463]AssetCheck: New page: Asset Save: W_InventorySlot
+[2022.11.03-06.20.47:459][463]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2022.11.03-06.22.30:867][910]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventorySlot
+[2022.11.03-06.22.30:868][910]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/W_InventorySlotE9F629C64ADCB6FD6FFB8DAE9469286C.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/UMG/Inventory/W_InventorySlot.uasset'
+[2022.11.03-06.22.30:882][910]AssetCheck: New page: Asset Save: W_InventorySlot
+[2022.11.03-06.22.30:882][910]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2022.11.03-06.22.31:245][953]BlueprintLog: New page: Compile W_InventorySlot
+[2022.11.03-06.22.31:302][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.03-06.23.40:181][227]LogSavePackage: Moving output files for package: /Game/Bluerprints/BlueprintComponents/BPC_Inventory
+[2022.11.03-06.23.40:181][227]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_Inventory5E9290564D4D1E8BC330B091DAFBE7F2.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Bluerprints/BlueprintComponents/BPC_Inventory.uasset'
+[2022.11.03-06.23.40:195][227]AssetCheck: New page: Asset Save: BPC_Inventory
+[2022.11.03-06.23.40:195][227]LogContentValidation: Display: Validating Blueprint /Game/Bluerprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2022.11.03-06.23.41:745][399]BlueprintLog: New page: Compile BPC_Inventory
+[2022.11.03-06.23.41:794][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.03-06.23.42:241][438]LogSavePackage: Moving output files for package: /Game/Bluerprints/BlueprintComponents/BPC_Inventory
+[2022.11.03-06.23.42:241][438]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_Inventory79CAD43E4A6F939A10F11D9B825971A5.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Bluerprints/BlueprintComponents/BPC_Inventory.uasset'
+[2022.11.03-06.23.42:255][438]AssetCheck: New page: Asset Save: BPC_Inventory
+[2022.11.03-06.23.42:255][438]LogContentValidation: Display: Validating Blueprint /Game/Bluerprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2022.11.03-06.23.47:391][ 45]BlueprintLog: New page: Compile W_InventorySlot
+[2022.11.03-06.23.47:433][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.03-06.23.48:049][103]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventorySlot
+[2022.11.03-06.23.48:050][103]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/W_InventorySlot00ED25A24B7B6793C94B20985305F089.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/UMG/Inventory/W_InventorySlot.uasset'
+[2022.11.03-06.23.48:063][103]AssetCheck: New page: Asset Save: W_InventorySlot
+[2022.11.03-06.23.48:063][103]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2022.11.03-06.26.14:299][765]BlueprintLog: New page: Compile W_InventorySlot
+[2022.11.03-06.26.14:357][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.11.03-06.26.14:711][792]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventorySlot
+[2022.11.03-06.26.14:712][792]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/W_InventorySlot9EFD345848CF0616209C75B6D966EE97.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/UMG/Inventory/W_InventorySlot.uasset'
+[2022.11.03-06.26.14:724][792]AssetCheck: New page: Asset Save: W_InventorySlot
+[2022.11.03-06.26.14:724][792]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2022.11.03-06.26.59:306][955]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.26.59:307][955]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_0
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.26.59:965][ 18]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:659][ 89]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:672][ 90]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:687][ 91]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:696][ 92]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:708][ 93]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:718][ 94]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:728][ 95]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:738][ 96]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:750][ 97]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:761][ 98]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:772][ 99]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:783][100]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:793][101]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.00:804][102]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-06.27.01:837][203]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu
+[2022.11.03-06.27.01:837][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-06.27.01:857][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-06.27.02:152][203]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.03-06.27.02:152][203]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.03-06.27.30:597][473]BlueprintLog: New page: Compile W_InventoryMenu
+[2022.11.03-06.27.30:681][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.03-06.27.31:409][536]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventoryMenu
+[2022.11.03-06.27.31:410][536]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/W_InventoryMenuB2F7D29040E4D2C0D2E0B38E58D32398.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/UMG/Inventory/W_InventoryMenu.uasset'
+[2022.11.03-06.27.31:423][536]AssetCheck: New page: Asset Save: W_InventoryMenu
+[2022.11.03-06.27.31:423][536]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu
+[2022.11.03-06.27.51:410][981]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.03-06.27.51:418][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.03-06.27.51:418][981]PIE: New page: PIE session: Level1 (Nov. 2, 2022, 4:27:51 p.m.)
+[2022.11.03-06.27.51:418][981]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-06.27.51:422][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003026s)
+[2022.11.03-06.27.51:422][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003095s)
+[2022.11.03-06.27.51:422][981]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.03-06.27.51:422][981]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-06.27.51:422][981]LogAIModule: Creating AISystem for world Level1
+[2022.11.03-06.27.51:422][981]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2022.11.03-06.27.51:466][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.03-06.27.51:468][981]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.11.03-06.27.51:468][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.03-06.27.51:468][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.03-06.27.51:468][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.03-06.27.51:468][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.03-06.27.51:468][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.03-06.27.51:468][981]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.03-06.27.51:468][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.03-06.27.51:468][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.03-06.27.51:469][981]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.03-06.27.51:469][981]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.03-06.27.51:469][981]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.03-06.27.51:470][981]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.03-06.27.51:491][981]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.03-06.27.51:491][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.03-06.27.51:491][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.03-06.27.51:491][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.03-06.27.51:492][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.11.03-06.27.51:492][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.11.03-06.27.51:493][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.11.03-06.27.51:493][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.11.03-06.27.51:493][981]LogInit: FAudioDevice initialized.
+[2022.11.03-06.27.51:493][981]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2022.11.03-06.27.51:550][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-06.27.51:550][981]LogLoad: Game class is 'L1_GameMode_C'
+[2022.11.03-06.27.51:552][981]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.02-23.27.51
+[2022.11.03-06.27.51:553][981]LogWorld: Bringing up level for play took: 0.002387
+[2022.11.03-06.27.51:555][981]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.11.03-06.27.51:556][981]LogBlueprintUserMessages: [L1_Character_C_0] L1_Character_C_0was constructed???
+[2022.11.03-06.27.51:557][981]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] getting player from level...
+[2022.11.03-06.27.51:557][981]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] L1_Character_C_0 player found
+[2022.11.03-06.27.51:557][981]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] getting player from level...
+[2022.11.03-06.27.51:557][981]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] L1_Character_C_0 player found
+[2022.11.03-06.27.51:560][981]PIE: Server logged in
+[2022.11.03-06.27.51:561][981]PIE: Play in editor total start time 0.143 seconds.
+[2022.11.03-06.27.53:193][125]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-06.27.53:294][134]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-06.27.53:390][143]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-06.27.53:498][153]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-06.27.53:595][162]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-06.27.53:691][171]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2022.11.03-06.27.54:882][283]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-06.27.54:882][283]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.03-06.27.54:882][283]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.03-06.27.55:394][332]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-06.27.55:394][332]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-06.27.56:676][452]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-06.27.56:676][452]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-06.27.57:286][510]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-06.27.57:287][510]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-06.27.58:892][659]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-06.27.58:892][659]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-06.27.59:095][678]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-06.27.59:353][702]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-06.27.59:353][702]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-06.27.59:396][706]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-06.27.59:689][733]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-06.27.59:988][760]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-06.28.00:287][787]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-06.28.00:593][815]LogBlueprintUserMessages: [BPC_Movement] 20.0
+[2022.11.03-06.28.02:289][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-06.28.02:289][968]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-06.28.02:290][968]LogSlate: Window 'UdemyHorrorGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.03-06.28.02:294][968]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-06.28.02:294][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-06.28.02:304][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.03-06.28.02:310][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-06.28.02:353][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.03-06.28.02:353][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.11.03-06.28.02:354][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.11.03-06.28.02:361][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.03-06.28.02:394][969]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.11.03-06.28.04:913][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.03-06.28.40:451][689]LogStaticMesh: StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows should be resaved to improve async compilation performance.
+[2022.11.03-06.28.40:620][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Bluerprints/Actors/Inventory/PickupActors/BP_PickupActor_Key.BP_PickupActor_Key_C
+[2022.11.03-06.28.40:620][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Bluerprints/Actors/Inventory/PickupActors/BP_PickupActor_Key.BP_PickupActor_Key_C
+[2022.11.03-06.28.40:622][692]LogActorFactory: Actor Factory spawned Blueprint /Game/Bluerprints/Actors/Inventory/PickupActors/BP_PickupActor_Key.BP_PickupActor_Key as actor: BP_PickupActor_Key_C /Game/Maps/Level1.Level1:PersistentLevel.BP_PickupActor_Key_C_0
+[2022.11.03-06.28.40:624][692]LogActorFactory: Actor Factory spawned Blueprint /Game/Bluerprints/Actors/Inventory/PickupActors/BP_PickupActor_Key.BP_PickupActor_Key as actor: BP_PickupActor_Key_C /Game/Maps/Level1.Level1:PersistentLevel.BP_PickupActor_Key_C_0
+[2022.11.03-06.28.42:454][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Bluerprints/Actors/Inventory/PickupActors/BP_PickupActor_Key.BP_PickupActor_Key_C
+[2022.11.03-06.28.42:454][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Bluerprints/Actors/Inventory/PickupActors/BP_PickupActor_Key.BP_PickupActor_Key_C
+[2022.11.03-06.28.42:457][879]LogActorFactory: Actor Factory spawned Blueprint /Game/Bluerprints/Actors/Inventory/PickupActors/BP_PickupActor_Key.BP_PickupActor_Key as actor: BP_PickupActor_Key_C /Game/Maps/Level1.Level1:PersistentLevel.BP_PickupActor_Key_C_1
+[2022.11.03-06.28.42:458][879]LogActorFactory: Actor Factory spawned Blueprint /Game/Bluerprints/Actors/Inventory/PickupActors/BP_PickupActor_Key.BP_PickupActor_Key as actor: BP_PickupActor_Key_C /Game/Maps/Level1.Level1:PersistentLevel.BP_PickupActor_Key_C_1
+[2022.11.03-06.28.45:299][159]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.03-06.28.45:315][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.03-06.28.45:316][159]PIE: New page: PIE session: Level1 (Nov. 2, 2022, 4:28:45 p.m.)
+[2022.11.03-06.28.45:316][159]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-06.28.45:319][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003002s)
+[2022.11.03-06.28.45:319][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003064s)
+[2022.11.03-06.28.45:319][159]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.03-06.28.45:319][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-06.28.45:319][159]LogAIModule: Creating AISystem for world Level1
+[2022.11.03-06.28.45:319][159]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2022.11.03-06.28.45:364][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.11.03-06.28.45:367][159]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.03-06.28.45:367][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.03-06.28.45:367][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.03-06.28.45:367][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.03-06.28.45:367][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.03-06.28.45:367][159]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.03-06.28.45:367][159]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.03-06.28.45:367][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.03-06.28.45:367][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.03-06.28.45:368][159]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.03-06.28.45:368][159]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.03-06.28.45:368][159]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.03-06.28.45:370][159]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.03-06.28.45:391][159]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.03-06.28.45:391][159]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.03-06.28.45:391][159]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.03-06.28.45:391][159]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.03-06.28.45:392][159]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.11.03-06.28.45:392][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.11.03-06.28.45:393][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.11.03-06.28.45:393][159]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.11.03-06.28.45:394][159]LogInit: FAudioDevice initialized.
+[2022.11.03-06.28.45:394][159]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2022.11.03-06.28.45:451][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-06.28.45:451][159]LogLoad: Game class is 'L1_GameMode_C'
+[2022.11.03-06.28.45:452][159]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.02-23.28.45
+[2022.11.03-06.28.45:453][159]LogWorld: Bringing up level for play took: 0.001947
+[2022.11.03-06.28.45:455][159]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.11.03-06.28.45:457][159]LogBlueprintUserMessages: [L1_Character_C_0] L1_Character_C_0was constructed???
+[2022.11.03-06.28.45:457][159]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] getting player from level...
+[2022.11.03-06.28.45:457][159]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] L1_Character_C_0 player found
+[2022.11.03-06.28.45:457][159]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] getting player from level...
+[2022.11.03-06.28.45:457][159]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] L1_Character_C_0 player found
+[2022.11.03-06.28.45:461][159]PIE: Server logged in
+[2022.11.03-06.28.45:462][159]PIE: Play in editor total start time 0.154 seconds.
+[2022.11.03-06.28.48:112][384]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-06.28.48:213][393]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-06.28.48:313][402]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-06.28.48:413][411]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-06.28.48:503][419]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-06.28.48:603][428]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2022.11.03-06.28.48:703][437]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2022.11.03-06.28.48:805][446]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2022.11.03-06.28.48:909][455]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2022.11.03-06.28.49:007][464]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2022.11.03-06.28.49:107][473]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2022.11.03-06.28.53:030][824]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-06.28.53:030][824]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.03-06.28.53:030][824]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.03-06.28.54:471][955]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2022.11.03-06.28.54:764][982]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2022.11.03-06.28.55:070][ 10]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2022.11.03-06.28.55:366][ 37]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2022.11.03-06.28.55:668][ 65]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2022.11.03-06.28.55:967][ 92]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-06.28.56:264][119]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-06.28.56:572][147]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-06.28.56:869][174]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-06.28.57:169][201]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-06.28.57:465][228]LogBlueprintUserMessages: [BPC_Movement] 20.0
+[2022.11.03-06.28.59:508][414]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-06.28.59:508][414]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-06.29.00:542][506]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-06.29.00:631][514]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-06.29.00:733][523]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-06.29.00:833][532]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-06.29.00:936][541]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-06.29.01:036][550]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2022.11.03-06.29.01:139][559]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2022.11.03-06.29.02:269][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-06.29.02:269][660]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-06.29.02:270][660]LogSlate: Window 'UdemyHorrorGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.03-06.29.02:274][660]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-06.29.02:275][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-06.29.02:290][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.03-06.29.02:295][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-06.29.02:341][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.03-06.29.02:343][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.03-06.29.02:350][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.03-06.29.02:372][661]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.11.03-06.29.06:463][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.03-06.29.06:581][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.03-06.29.06:595][ 83]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.11.03-06.29.06:596][ 83]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/Level1A8D44B714C962DD34AFAE592A8B786AC.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Maps/Level1.umap'
+[2022.11.03-06.29.06:612][ 83]LogFileHelpers: No new changes to save!
+[2022.11.03-06.29.06:612][ 83]LogFileHelpers: Saving map 'Level1' took 0.075
+[2022.11.03-06.29.06:626][ 83]AssetCheck: New page: Asset Save: Level1
+[2022.11.03-06.29.06:626][ 83]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
