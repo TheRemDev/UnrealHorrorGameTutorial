@@ -1026,3 +1026,87 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.03-06.01.41:061][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2022.11.03-06.01.41:066][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
 [2022.11.03-06.01.41:095][230]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.11.03-06.03.57:949][354]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.03-06.03.57:957][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.03-06.03.57:957][354]PIE: New page: PIE session: Level1 (Nov. 2, 2022, 4:03:57 p.m.)
+[2022.11.03-06.03.57:957][354]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-06.03.57:960][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002975s)
+[2022.11.03-06.03.57:960][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003037s)
+[2022.11.03-06.03.57:960][354]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.03-06.03.57:960][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-06.03.57:961][354]LogAIModule: Creating AISystem for world Level1
+[2022.11.03-06.03.57:961][354]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2022.11.03-06.03.57:966][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.03-06.03.57:967][354]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.03-06.03.57:967][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.03-06.03.57:968][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.03-06.03.57:968][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.03-06.03.57:968][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.03-06.03.57:968][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.03-06.03.57:968][354]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.03-06.03.57:968][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.03-06.03.57:968][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.03-06.03.57:968][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.03-06.03.57:968][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.03-06.03.57:968][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.03-06.03.57:970][354]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.03-06.03.57:991][354]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.03-06.03.57:992][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.03-06.03.57:992][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.03-06.03.57:992][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.03-06.03.57:992][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.11.03-06.03.57:992][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.11.03-06.03.57:994][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.11.03-06.03.57:994][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.11.03-06.03.57:994][354]LogInit: FAudioDevice initialized.
+[2022.11.03-06.03.57:994][354]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2022.11.03-06.03.58:039][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-06.03.58:039][354]LogLoad: Game class is 'L1_GameMode_C'
+[2022.11.03-06.03.58:041][354]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.02-23.03.58
+[2022.11.03-06.03.58:041][354]LogWorld: Bringing up level for play took: 0.001713
+[2022.11.03-06.03.58:043][354]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.11.03-06.03.58:044][354]LogBlueprintUserMessages: [L1_Character_C_0] L1_Character_C_0was constructed???
+[2022.11.03-06.03.58:044][354]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] getting player from level...
+[2022.11.03-06.03.58:044][354]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] L1_Character_C_0 player found
+[2022.11.03-06.03.58:044][354]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] getting player from level...
+[2022.11.03-06.03.58:044][354]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] L1_Character_C_0 player found
+[2022.11.03-06.03.58:048][354]PIE: Server logged in
+[2022.11.03-06.03.58:049][354]PIE: Play in editor total start time 0.092 seconds.
+[2022.11.03-06.03.59:282][441]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-06.03.59:379][449]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-06.03.59:484][458]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-06.03.59:585][467]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-06.03.59:689][476]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-06.03.59:780][484]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2022.11.03-06.03.59:887][493]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2022.11.03-06.03.59:978][501]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2022.11.03-06.04.00:087][510]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2022.11.03-06.04.00:178][518]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2022.11.03-06.04.00:279][527]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2022.11.03-06.04.00:382][536]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2022.11.03-06.04.00:485][545]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2022.11.03-06.04.00:579][553]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2022.11.03-06.04.00:683][562]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2022.11.03-06.04.00:784][571]LogBlueprintUserMessages: [BPC_Movement] 4.0
+[2022.11.03-06.04.00:881][579]LogBlueprintUserMessages: [BPC_Movement] 3.0
+[2022.11.03-06.04.00:985][588]LogBlueprintUserMessages: [BPC_Movement] 2.0
+[2022.11.03-06.04.01:082][596]LogBlueprintUserMessages: [BPC_Movement] 1.0
+[2022.11.03-06.04.03:683][824]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-06.04.03:683][824]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.03-06.04.03:683][824]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.03-06.04.05:443][986]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-06.04.05:443][986]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-06.04.06:390][ 75]LogBlueprintUserMessages: [BPC_Movement] 2.0
+[2022.11.03-06.04.06:682][103]LogBlueprintUserMessages: [BPC_Movement] 3.0
+[2022.11.03-06.04.06:850][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-06.04.06:850][116]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-06.04.06:851][116]LogSlate: Window 'UdemyHorrorGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.03-06.04.06:873][116]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-06.04.06:873][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-06.04.06:883][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.03-06.04.06:885][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-06.04.06:891][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.03-06.04.06:892][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.03-06.04.06:898][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.03-06.04.06:926][117]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.11.03-06.04.11:435][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
