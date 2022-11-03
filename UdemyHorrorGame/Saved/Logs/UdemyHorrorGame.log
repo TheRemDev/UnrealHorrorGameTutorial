@@ -707,3 +707,126 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.03-05.54.01:456][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.11.03-05.54.02:447][ 46]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.11.03-05.54.12:619][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.03-05.55.52:888][174]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.03-05.55.52:901][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.03-05.55.52:904][174]PIE: New page: PIE session: Level1 (Nov. 2, 2022, 3:55:52 p.m.)
+[2022.11.03-05.55.52:907][174]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.03-05.55.52:908][174]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.03-05.55.52:912][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-05.55.52:916][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004352s)
+[2022.11.03-05.55.52:917][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004596s)
+[2022.11.03-05.55.52:917][174]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.03-05.55.52:917][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-05.55.52:917][174]LogAIModule: Creating AISystem for world Level1
+[2022.11.03-05.55.52:917][174]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2022.11.03-05.55.52:923][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.03-05.55.52:925][174]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.03-05.55.52:925][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.03-05.55.52:925][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.03-05.55.52:925][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.03-05.55.52:925][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.03-05.55.52:925][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.03-05.55.52:925][174]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.03-05.55.52:925][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.03-05.55.52:925][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.03-05.55.52:925][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.03-05.55.52:925][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.03-05.55.52:925][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.03-05.55.52:927][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.03-05.55.52:948][174]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.03-05.55.52:948][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.03-05.55.52:948][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.03-05.55.52:948][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.03-05.55.52:949][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.03-05.55.52:949][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.03-05.55.52:951][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.03-05.55.52:951][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.03-05.55.52:951][174]LogInit: FAudioDevice initialized.
+[2022.11.03-05.55.52:951][174]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2022.11.03-05.55.53:015][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-05.55.53:017][174]LogLoad: Game class is 'L1_GameMode_C'
+[2022.11.03-05.55.53:018][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.02-22.55.53
+[2022.11.03-05.55.53:020][174]LogWorld: Bringing up level for play took: 0.003498
+[2022.11.03-05.55.53:023][174]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.11.03-05.55.53:062][174]LogBlueprintUserMessages: [L1_Character_C_0] L1_Character_C_0was constructed???
+[2022.11.03-05.55.53:070][174]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] getting player from level...
+[2022.11.03-05.55.53:071][174]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] L1_Character_C_0 player found
+[2022.11.03-05.55.53:071][174]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] getting player from level...
+[2022.11.03-05.55.53:071][174]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] L1_Character_C_0 player found
+[2022.11.03-05.55.53:091][174]PIE: Server logged in
+[2022.11.03-05.55.53:093][174]PIE: Play in editor total start time 0.195 seconds.
+[2022.11.03-05.55.54:597][287]LogDerivedDataCache: C:/Users/remst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.729 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-05.55.55:758][394]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-05.55.55:758][394]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.03-05.55.55:758][394]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.03-05.55.58:378][646]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-05.55.58:378][646]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-05.55.59:686][768]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-05.56.00:307][825]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-05.56.00:405][834]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-05.56.03:064][ 82]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-05.56.03:064][ 82]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-05.56.03:828][155]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-05.56.03:828][155]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-05.56.05:377][301]LogBlueprintUserMessages: [L1_Character_C_0] BP_InventoryItem_FlashlightBattery_C : 10
+[2022.11.03-05.56.05:377][301]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.05:377][301]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.05:378][301]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.05:378][301]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.05:378][301]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.05:378][301]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.05:378][301]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.05:753][337]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-05.56.06:059][366]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-05.56.06:354][394]LogBlueprintUserMessages: [BPC_Movement] 20.0
+[2022.11.03-05.56.11:096][845]LogBlueprintUserMessages: [L1_Character_C_0] BP_InventoryItem_FlashlightBattery_C : 10
+[2022.11.03-05.56.11:096][845]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.11:096][845]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.11:096][845]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.11:096][845]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.11:096][845]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.11:096][845]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.11:096][845]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.16:048][312]LogBlueprintUserMessages: [L1_Character_C_0] BP_InventoryItem_FlashlightBattery_C : 10
+[2022.11.03-05.56.16:048][312]LogBlueprintUserMessages: [L1_Character_C_0] BP_InventoryItem_FlashlightBattery_C : 10
+[2022.11.03-05.56.16:048][312]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.16:048][312]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.16:048][312]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.16:048][312]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.16:048][312]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.16:048][312]LogBlueprintUserMessages: [L1_Character_C_0] NO ITEM
+[2022.11.03-05.56.19:372][621]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-05.56.19:474][630]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-05.56.19:571][639]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-05.56.19:672][648]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-05.56.19:775][657]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-05.56.19:874][666]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2022.11.03-05.56.21:056][773]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-05.56.21:056][773]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-05.56.22:623][915]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-05.56.22:623][915]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-05.56.23:364][983]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-05.56.23:364][983]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-05.56.23:976][ 41]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-05.56.23:977][ 41]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-05.56.25:240][158]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-05.56.25:544][187]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-05.56.25:725][204]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-05.56.25:725][204]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-05.56.25:841][215]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-05.56.26:145][244]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-05.56.26:441][272]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-05.56.26:739][300]LogBlueprintUserMessages: [BPC_Movement] 20.0
+[2022.11.03-05.56.33:715][965]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-05.56.33:715][965]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-05.56.35:960][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-05.56.35:960][171]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-05.56.35:961][171]LogSlate: Window 'UdemyHorrorGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.03-05.56.35:966][171]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-05.56.35:967][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-05.56.35:978][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.03-05.56.35:980][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-05.56.35:986][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.03-05.56.35:988][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.03-05.56.35:995][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.03-05.56.36:036][173]LogPlayLevel: Display: Destroying online subsystem :Context_2
