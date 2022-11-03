@@ -2042,3 +2042,22 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.03-07.16.43:210][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
 [2022.11.03-07.16.43:233][897]LogPlayLevel: Display: Destroying online subsystem :Context_23
 [2022.11.03-07.16.48:051][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.03-07.21.49:491][680]LogEditorTransaction: Undo Create Reroute Node
+[2022.11.03-07.21.52:354][952]LogSavePackage: Moving output files for package: /Game/Bluerprints/BlueprintComponents/BPC_Inventory
+[2022.11.03-07.21.52:354][952]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_InventoryB933F7354C73FE18DF700790B3D7B623.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Bluerprints/BlueprintComponents/BPC_Inventory.uasset'
+[2022.11.03-07.21.52:370][952]AssetCheck: New page: Asset Save: BPC_Inventory
+[2022.11.03-07.21.52:370][952]LogContentValidation: Display: Validating Blueprint /Game/Bluerprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2022.11.03-07.21.52:607][980]BlueprintLog: New page: Compile BPC_Inventory
+[2022.11.03-07.21.52:670][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.03-07.21.56:912][465]LogSavePackage: Moving output files for package: /Game/Bluerprints/BlueprintComponents/BPC_Inventory
+[2022.11.03-07.21.56:913][465]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_InventoryE5666E014130EF29DBE81D9DB4021899.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Bluerprints/BlueprintComponents/BPC_Inventory.uasset'
+[2022.11.03-07.21.56:926][465]AssetCheck: New page: Asset Save: BPC_Inventory
+[2022.11.03-07.21.56:926][465]LogContentValidation: Display: Validating Blueprint /Game/Bluerprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2022.11.03-07.22.45:920][290]BlueprintLog: New page: Compile BPC_Inventory
+[2022.11.03-07.22.45:976][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.03-07.24.11:950][915]BlueprintLog: New page: Compile BPC_Inventory
+[2022.11.03-07.24.12:008][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.03-07.24.13:926][122]LogSavePackage: Moving output files for package: /Game/Bluerprints/BlueprintComponents/BPC_Inventory
+[2022.11.03-07.24.13:926][122]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_InventoryB65AB68042367C634D00DA85C3A3FC9A.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Bluerprints/BlueprintComponents/BPC_Inventory.uasset'
+[2022.11.03-07.24.13:940][122]AssetCheck: New page: Asset Save: BPC_Inventory
+[2022.11.03-07.24.13:941][122]LogContentValidation: Display: Validating Blueprint /Game/Bluerprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
