@@ -1545,3 +1545,500 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.03-06.29.06:612][ 83]LogFileHelpers: Saving map 'Level1' took 0.075
 [2022.11.03-06.29.06:626][ 83]AssetCheck: New page: Asset Save: Level1
 [2022.11.03-06.29.06:626][ 83]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.11.03-06.55.54:364][301]LogDerivedDataCache: C:/Users/remst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.309 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-07.06.02:086][399]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-07.06.02:086][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-07.06.09:482][827]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:265][991]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:299][992]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:316][993]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:333][994]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:349][995]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:366][996]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:383][997]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:399][998]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:416][999]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:433][  0]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:449][  1]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:466][  2]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:482][  3]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:499][  4]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:632][ 12]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.12:716][ 17]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid
+[2022.11.03-07.06.12:717][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-07.06.12:727][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-07.06.13:008][ 17]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.03-07.06.13:008][ 17]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.03-07.06.13:061][ 17]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_16:W_InventoryGrid_C_0
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.06.30:190][ 41]BlueprintLog: New page: Compile BPC_Inventory
+[2022.11.03-07.06.30:262][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.03-07.06.30:782][ 64]LogSavePackage: Moving output files for package: /Game/Bluerprints/BlueprintComponents/BPC_Inventory
+[2022.11.03-07.06.30:783][ 64]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/BPC_Inventory9F0376CD40BA979C5F9797A04784696D.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Bluerprints/BlueprintComponents/BPC_Inventory.uasset'
+[2022.11.03-07.06.30:798][ 64]AssetCheck: New page: Asset Save: BPC_Inventory
+[2022.11.03-07.06.30:798][ 64]LogContentValidation: Display: Validating Blueprint /Game/Bluerprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2022.11.03-07.07.01:453][992]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.03-07.07.01:453][992]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.03-07.08.34:541][223]BlueprintLog: New page: Compile W_InventorySlot
+[2022.11.03-07.08.34:598][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.11.03-07.08.34:670][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_2
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.08.34:670][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_2
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.08.34:670][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_2
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.08.34:671][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_2
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.08.34:671][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_2
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.08.34:731][225]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_2
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.09.17:019][892]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_16:W_InventoryGrid_C_3
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.11.38:825][446]BlueprintLog: New page: Compile W_InventorySlot
+[2022.11.03-07.11.38:880][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.03-07.11.38:903][446]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_3
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.11.38:903][446]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_3
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.11.38:903][446]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_3
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.11.38:904][446]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_3
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.11.38:904][446]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_3
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.11.38:962][448]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_3
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.11.39:362][485]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventorySlot
+[2022.11.03-07.11.39:363][485]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/W_InventorySlot8A27F30F4248DF9DB60FD396137C1D27.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/UMG/Inventory/W_InventorySlot.uasset'
+[2022.11.03-07.11.39:376][485]AssetCheck: New page: Asset Save: W_InventorySlot
+[2022.11.03-07.11.39:376][485]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2022.11.03-07.12.39:541][ 69]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventorySlot
+[2022.11.03-07.12.39:542][ 69]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/W_InventorySlotB036A3144D0A2D8B75D70ABD35D42C82.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/UMG/Inventory/W_InventorySlot.uasset'
+[2022.11.03-07.12.39:554][ 69]AssetCheck: New page: Asset Save: W_InventorySlot
+[2022.11.03-07.12.39:554][ 69]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2022.11.03-07.12.42:220][344]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.03-07.12.42:230][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.03-07.12.42:230][344]PIE: New page: PIE session: Level1 (Nov. 2, 2022, 5:12:42 p.m.)
+[2022.11.03-07.12.42:230][344]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-07.12.42:235][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005220s)
+[2022.11.03-07.12.42:235][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005283s)
+[2022.11.03-07.12.42:235][344]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.03-07.12.42:235][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-07.12.42:236][344]LogAIModule: Creating AISystem for world Level1
+[2022.11.03-07.12.42:237][344]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2022.11.03-07.12.42:282][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.03-07.12.42:284][344]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.03-07.12.42:284][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.03-07.12.42:284][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.03-07.12.42:284][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.03-07.12.42:284][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.03-07.12.42:284][344]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.03-07.12.42:284][344]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.03-07.12.42:284][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.03-07.12.42:284][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.03-07.12.42:284][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.03-07.12.42:284][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.03-07.12.42:284][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.03-07.12.42:286][344]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.03-07.12.42:307][344]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.03-07.12.42:308][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.03-07.12.42:308][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.03-07.12.42:308][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.03-07.12.42:311][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.11.03-07.12.42:311][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.11.03-07.12.42:313][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.11.03-07.12.42:313][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.11.03-07.12.42:313][344]LogInit: FAudioDevice initialized.
+[2022.11.03-07.12.42:313][344]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2022.11.03-07.12.42:368][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-07.12.42:368][344]LogLoad: Game class is 'L1_GameMode_C'
+[2022.11.03-07.12.42:371][344]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.03-00.12.42
+[2022.11.03-07.12.42:372][344]LogWorld: Bringing up level for play took: 0.004187
+[2022.11.03-07.12.42:374][344]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.11.03-07.12.42:383][344]LogBlueprintUserMessages: [L1_Character_C_0] L1_Character_C_0was constructed???
+[2022.11.03-07.12.42:384][344]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] getting player from level...
+[2022.11.03-07.12.42:384][344]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] L1_Character_C_0 player found
+[2022.11.03-07.12.42:384][344]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] getting player from level...
+[2022.11.03-07.12.42:384][344]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] L1_Character_C_0 player found
+[2022.11.03-07.12.42:388][344]PIE: Server logged in
+[2022.11.03-07.12.42:389][344]PIE: Play in editor total start time 0.159 seconds.
+[2022.11.03-07.12.45:810][654]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-07.12.45:908][663]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-07.12.46:004][672]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-07.12.46:100][681]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-07.12.46:207][691]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-07.12.46:303][700]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2022.11.03-07.12.46:402][706]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2022.11.03-07.12.46:506][716]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2022.11.03-07.12.46:604][725]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2022.11.03-07.12.46:700][734]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2022.11.03-07.12.46:809][744]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2022.11.03-07.12.46:910][753]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2022.11.03-07.12.47:008][762]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2022.11.03-07.12.47:104][771]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2022.11.03-07.12.47:202][780]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2022.11.03-07.12.47:301][789]LogBlueprintUserMessages: [BPC_Movement] 4.0
+[2022.11.03-07.12.47:410][799]LogBlueprintUserMessages: [BPC_Movement] 3.0
+[2022.11.03-07.12.47:508][808]LogBlueprintUserMessages: [BPC_Movement] 2.0
+[2022.11.03-07.12.47:605][817]LogBlueprintUserMessages: [BPC_Movement] 1.0
+[2022.11.03-07.12.47:711][826]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2022.11.03-07.12.48:101][864]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.12.48:101][864]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.03-07.12.48:101][864]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.03-07.12.50:006][ 49]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.12.50:006][ 49]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.12.52:433][270]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.12.52:433][270]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.12.53:033][325]LogBlueprintUserMessages: [BPC_Movement] 1.0
+[2022.11.03-07.12.53:335][353]LogBlueprintUserMessages: [BPC_Movement] 2.0
+[2022.11.03-07.12.53:486][367]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.12.53:486][367]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.12.53:637][381]LogBlueprintUserMessages: [BPC_Movement] 3.0
+[2022.11.03-07.12.53:931][408]LogBlueprintUserMessages: [BPC_Movement] 4.0
+[2022.11.03-07.12.53:983][413]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.12.53:983][413]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.12.54:233][436]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2022.11.03-07.12.54:534][464]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.12.54:534][464]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.12.54:534][464]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2022.11.03-07.12.54:838][492]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2022.11.03-07.12.55:139][520]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2022.11.03-07.12.55:259][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-07.12.55:259][529]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-07.12.55:259][529]LogSlate: Window 'UdemyHorrorGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.03-07.12.55:264][529]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-07.12.55:265][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-07.12.55:275][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.03-07.12.55:281][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-07.12.55:323][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.03-07.12.55:324][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.03-07.12.55:325][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.03-07.12.55:343][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.03-07.12.55:380][530]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.11.03-07.15.02:185][259]BlueprintLog: New page: Compile W_InventorySlot
+[2022.11.03-07.15.02:241][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.03-07.15.02:260][259]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_4
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.15.02:260][259]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_4
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.15.02:260][259]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_4
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.15.02:260][259]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_4
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.15.02:261][259]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_4
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.15.02:323][261]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_4
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.15.02:646][290]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventorySlot
+[2022.11.03-07.15.02:647][290]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/W_InventorySlot8B13AD384E902D5B1CC60982E2469A82.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/UMG/Inventory/W_InventorySlot.uasset'
+[2022.11.03-07.15.02:661][290]AssetCheck: New page: Asset Save: W_InventorySlot
+[2022.11.03-07.15.02:661][290]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2022.11.03-07.15.04:149][437]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.03-07.15.04:159][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.03-07.15.04:159][437]PIE: New page: PIE session: Level1 (Nov. 2, 2022, 5:15:04 p.m.)
+[2022.11.03-07.15.04:159][437]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-07.15.04:162][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002809s)
+[2022.11.03-07.15.04:162][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002863s)
+[2022.11.03-07.15.04:162][437]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.03-07.15.04:162][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-07.15.04:162][437]LogAIModule: Creating AISystem for world Level1
+[2022.11.03-07.15.04:162][437]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2022.11.03-07.15.04:205][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.03-07.15.04:206][437]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.03-07.15.04:206][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.03-07.15.04:206][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.03-07.15.04:206][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.03-07.15.04:206][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.03-07.15.04:206][437]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.03-07.15.04:206][437]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.03-07.15.04:206][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.03-07.15.04:206][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.03-07.15.04:206][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.03-07.15.04:206][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.03-07.15.04:206][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.03-07.15.04:208][437]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.03-07.15.04:229][437]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.03-07.15.04:229][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.03-07.15.04:229][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.03-07.15.04:229][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.03-07.15.04:231][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.11.03-07.15.04:231][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.11.03-07.15.04:232][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.11.03-07.15.04:232][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.11.03-07.15.04:232][437]LogInit: FAudioDevice initialized.
+[2022.11.03-07.15.04:232][437]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2022.11.03-07.15.04:279][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-07.15.04:280][437]LogLoad: Game class is 'L1_GameMode_C'
+[2022.11.03-07.15.04:281][437]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.03-00.15.04
+[2022.11.03-07.15.04:281][437]LogWorld: Bringing up level for play took: 0.001317
+[2022.11.03-07.15.04:283][437]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.11.03-07.15.04:284][437]LogBlueprintUserMessages: [L1_Character_C_0] L1_Character_C_0was constructed???
+[2022.11.03-07.15.04:284][437]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] getting player from level...
+[2022.11.03-07.15.04:284][437]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] L1_Character_C_0 player found
+[2022.11.03-07.15.04:285][437]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] getting player from level...
+[2022.11.03-07.15.04:285][437]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] L1_Character_C_0 player found
+[2022.11.03-07.15.04:288][437]PIE: Server logged in
+[2022.11.03-07.15.04:289][437]PIE: Play in editor total start time 0.131 seconds.
+[2022.11.03-07.15.10:026][962]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.15.10:026][962]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.03-07.15.10:026][962]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.03-07.15.10:932][ 51]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.15.10:932][ 51]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.15.12:015][152]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.15.12:016][152]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.15.13:579][294]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.15.13:579][294]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.15.13:832][317]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.15.13:832][317]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.15.14:314][361]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.15.14:314][361]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.15.15:769][492]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.15.15:769][492]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.15.16:291][540]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.15.16:291][540]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.15.19:379][824]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.15.19:379][824]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.15.21:137][993]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.15.21:137][993]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.15.22:575][127]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.15.22:575][127]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.15.23:429][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-07.15.23:429][202]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-07.15.23:429][202]LogSlate: Window 'UdemyHorrorGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.03-07.15.23:434][202]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-07.15.23:434][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-07.15.23:444][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.03-07.15.23:449][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-07.15.23:508][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.03-07.15.23:509][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.03-07.15.23:510][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.03-07.15.23:516][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.03-07.15.23:559][203]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.11.03-07.16.03:848][272]BlueprintLog: New page: Compile W_InventorySlot
+[2022.11.03-07.16.03:901][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.11.03-07.16.03:921][272]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_5
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.16.03:921][272]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_5
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.16.03:921][272]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_5
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.16.03:921][272]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_5
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.16.03:922][272]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_5
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.16.03:990][274]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_5
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2022.11.03-07.16.04:326][304]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventorySlot
+[2022.11.03-07.16.04:327][304]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/W_InventorySlotB1C2D1A64FC9D30D940A00A5BE090C02.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/UMG/Inventory/W_InventorySlot.uasset'
+[2022.11.03-07.16.04:339][304]AssetCheck: New page: Asset Save: W_InventorySlot
+[2022.11.03-07.16.04:339][304]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2022.11.03-07.16.05:544][426]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.03-07.16.05:553][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.03-07.16.05:553][426]PIE: New page: PIE session: Level1 (Nov. 2, 2022, 5:16:05 p.m.)
+[2022.11.03-07.16.05:553][426]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-07.16.05:556][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002872s)
+[2022.11.03-07.16.05:556][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002932s)
+[2022.11.03-07.16.05:556][426]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.03-07.16.05:556][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-07.16.05:556][426]LogAIModule: Creating AISystem for world Level1
+[2022.11.03-07.16.05:556][426]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2022.11.03-07.16.05:599][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.03-07.16.05:600][426]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.11.03-07.16.05:600][426]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.03-07.16.05:600][426]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.03-07.16.05:600][426]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.03-07.16.05:600][426]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.03-07.16.05:600][426]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.03-07.16.05:600][426]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.03-07.16.05:600][426]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.03-07.16.05:600][426]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.03-07.16.05:600][426]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.03-07.16.05:600][426]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.03-07.16.05:600][426]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.03-07.16.05:602][426]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.03-07.16.05:623][426]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.03-07.16.05:623][426]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.03-07.16.05:623][426]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.03-07.16.05:623][426]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.03-07.16.05:624][426]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.11.03-07.16.05:624][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.11.03-07.16.05:625][426]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.11.03-07.16.05:625][426]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.11.03-07.16.05:625][426]LogInit: FAudioDevice initialized.
+[2022.11.03-07.16.05:625][426]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2022.11.03-07.16.05:677][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-07.16.05:678][426]LogLoad: Game class is 'L1_GameMode_C'
+[2022.11.03-07.16.05:679][426]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.03-00.16.05
+[2022.11.03-07.16.05:680][426]LogWorld: Bringing up level for play took: 0.001927
+[2022.11.03-07.16.05:682][426]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.11.03-07.16.05:683][426]LogBlueprintUserMessages: [L1_Character_C_0] L1_Character_C_0was constructed???
+[2022.11.03-07.16.05:683][426]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] getting player from level...
+[2022.11.03-07.16.05:683][426]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] L1_Character_C_0 player found
+[2022.11.03-07.16.05:684][426]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] getting player from level...
+[2022.11.03-07.16.05:684][426]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] L1_Character_C_0 player found
+[2022.11.03-07.16.05:687][426]PIE: Server logged in
+[2022.11.03-07.16.05:688][426]PIE: Play in editor total start time 0.135 seconds.
+[2022.11.03-07.16.10:824][894]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.16.10:824][894]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.03-07.16.10:824][894]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.03-07.16.11:636][973]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.16.11:636][973]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.16.13:092][107]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.16.13:092][107]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.16.14:021][192]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.16.14:021][192]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.16.15:571][333]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.16.15:571][333]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.16.16:434][413]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.16.16:434][413]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.16.17:269][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-07.16.17:269][486]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-07.16.17:269][486]LogSlate: Window 'UdemyHorrorGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.03-07.16.17:275][486]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-07.16.17:275][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-07.16.17:286][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.03-07.16.17:292][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-07.16.17:333][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.03-07.16.17:333][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.11.03-07.16.17:335][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.11.03-07.16.17:342][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.03-07.16.17:363][487]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.11.03-07.16.30:515][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.03-07.16.30:637][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.03-07.16.30:651][774]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.11.03-07.16.30:651][774]LogSavePackage: Moving '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Saved/Level129272E484F2EFDE2F5AF4E9E86D16968.tmp' to '../../../../../../Users/remst/Documents/Unreal Projects/UnrealHorrorGameTutorial/UdemyHorrorGame/Content/Maps/Level1.umap'
+[2022.11.03-07.16.30:667][774]LogFileHelpers: No new changes to save!
+[2022.11.03-07.16.30:667][774]LogFileHelpers: Saving map 'Level1' took 0.072
+[2022.11.03-07.16.30:680][774]AssetCheck: New page: Asset Save: Level1
+[2022.11.03-07.16.30:680][774]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.11.03-07.16.31:260][828]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.03-07.16.31:271][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.03-07.16.31:271][828]PIE: New page: PIE session: Level1 (Nov. 2, 2022, 5:16:31 p.m.)
+[2022.11.03-07.16.31:271][828]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-07.16.31:273][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002695s)
+[2022.11.03-07.16.31:273][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002748s)
+[2022.11.03-07.16.31:273][828]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.03-07.16.31:274][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-07.16.31:274][828]LogAIModule: Creating AISystem for world Level1
+[2022.11.03-07.16.31:274][828]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2022.11.03-07.16.31:315][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.03-07.16.31:317][828]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.11.03-07.16.31:317][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.03-07.16.31:317][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.03-07.16.31:317][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.03-07.16.31:317][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.03-07.16.31:317][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.03-07.16.31:317][828]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.03-07.16.31:317][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.03-07.16.31:317][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.03-07.16.31:317][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.03-07.16.31:317][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.03-07.16.31:317][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.03-07.16.31:319][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.03-07.16.31:339][828]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.03-07.16.31:339][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.03-07.16.31:339][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.03-07.16.31:339][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.03-07.16.31:340][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.11.03-07.16.31:340][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.11.03-07.16.31:341][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.11.03-07.16.31:341][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.11.03-07.16.31:341][828]LogInit: FAudioDevice initialized.
+[2022.11.03-07.16.31:341][828]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2022.11.03-07.16.31:392][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-07.16.31:393][828]LogLoad: Game class is 'L1_GameMode_C'
+[2022.11.03-07.16.31:394][828]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.03-00.16.31
+[2022.11.03-07.16.31:394][828]LogWorld: Bringing up level for play took: 0.001530
+[2022.11.03-07.16.31:397][828]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.11.03-07.16.31:398][828]LogBlueprintUserMessages: [L1_Character_C_0] L1_Character_C_0was constructed???
+[2022.11.03-07.16.31:398][828]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] getting player from level...
+[2022.11.03-07.16.31:398][828]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] L1_Character_C_0 player found
+[2022.11.03-07.16.31:398][828]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] getting player from level...
+[2022.11.03-07.16.31:398][828]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] L1_Character_C_0 player found
+[2022.11.03-07.16.31:401][828]PIE: Server logged in
+[2022.11.03-07.16.31:402][828]PIE: Play in editor total start time 0.133 seconds.
+[2022.11.03-07.16.36:780][312]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.16.36:780][312]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.03-07.16.36:780][312]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.03-07.16.37:406][373]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.16.37:406][373]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.16.38:971][514]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.16.38:971][514]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.16.39:544][566]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.16.39:544][566]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.16.40:769][675]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-07.16.40:769][675]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-07.16.41:448][738]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-07.16.41:448][738]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-07.16.43:139][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-07.16.43:139][896]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-07.16.43:140][896]LogSlate: Window 'UdemyHorrorGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.03-07.16.43:144][896]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-07.16.43:145][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-07.16.43:153][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.03-07.16.43:158][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-07.16.43:201][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.03-07.16.43:201][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.11.03-07.16.43:203][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.11.03-07.16.43:210][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.03-07.16.43:233][897]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.11.03-07.16.48:051][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
