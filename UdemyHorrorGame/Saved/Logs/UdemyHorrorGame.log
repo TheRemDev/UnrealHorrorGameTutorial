@@ -924,3 +924,105 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.03-05.57.54:908][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2022.11.03-05.57.54:949][535]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2022.11.03-05.58.01:305][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.03-06.01.16:777][947]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.03-06.01.16:785][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.03-06.01.16:785][947]PIE: New page: PIE session: Level1 (Nov. 2, 2022, 4:01:16 p.m.)
+[2022.11.03-06.01.16:785][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-06.01.16:788][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002732s)
+[2022.11.03-06.01.16:788][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002791s)
+[2022.11.03-06.01.16:788][947]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.03-06.01.16:788][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-06.01.16:788][947]LogAIModule: Creating AISystem for world Level1
+[2022.11.03-06.01.16:788][947]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2022.11.03-06.01.16:793][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.03-06.01.16:794][947]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.03-06.01.16:794][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.03-06.01.16:794][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.03-06.01.16:794][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.03-06.01.16:794][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.03-06.01.16:794][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.03-06.01.16:794][947]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.03-06.01.16:794][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.03-06.01.16:794][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.03-06.01.16:794][947]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.03-06.01.16:794][947]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.03-06.01.16:794][947]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.03-06.01.16:796][947]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.03-06.01.16:817][947]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.03-06.01.16:817][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.03-06.01.16:817][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.03-06.01.16:817][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.03-06.01.16:818][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.03-06.01.16:818][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.11.03-06.01.16:819][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.03-06.01.16:819][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.03-06.01.16:819][947]LogInit: FAudioDevice initialized.
+[2022.11.03-06.01.16:819][947]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2022.11.03-06.01.16:872][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-06.01.16:873][947]LogLoad: Game class is 'L1_GameMode_C'
+[2022.11.03-06.01.16:874][947]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.02-23.01.16
+[2022.11.03-06.01.16:875][947]LogWorld: Bringing up level for play took: 0.001698
+[2022.11.03-06.01.16:876][947]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.11.03-06.01.16:877][947]LogBlueprintUserMessages: [L1_Character_C_0] L1_Character_C_0was constructed???
+[2022.11.03-06.01.16:878][947]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] getting player from level...
+[2022.11.03-06.01.16:878][947]LogBlueprintUserMessages: [BP_Interactable_Door_Outwards_C_1] L1_Character_C_0 player found
+[2022.11.03-06.01.16:878][947]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] getting player from level...
+[2022.11.03-06.01.16:878][947]LogBlueprintUserMessages: [BP_Interactable_LightSwitch_C_1] L1_Character_C_0 player found
+[2022.11.03-06.01.16:881][947]PIE: Server logged in
+[2022.11.03-06.01.16:882][947]PIE: Play in editor total start time 0.098 seconds.
+[2022.11.03-06.01.18:433][ 74]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-06.01.18:528][ 83]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-06.01.18:631][ 93]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-06.01.19:039][132]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-06.01.19:141][142]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-06.01.19:244][152]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2022.11.03-06.01.19:340][161]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2022.11.03-06.01.19:445][171]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2022.11.03-06.01.19:538][180]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2022.11.03-06.01.19:642][190]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2022.11.03-06.01.19:737][199]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2022.11.03-06.01.19:845][209]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2022.11.03-06.01.20:572][277]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2022.11.03-06.01.20:667][286]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2022.11.03-06.01.20:771][296]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2022.11.03-06.01.20:870][305]LogBlueprintUserMessages: [BPC_Movement] 4.0
+[2022.11.03-06.01.22:168][425]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-06.01.22:168][425]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.03-06.01.22:168][425]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.03-06.01.26:220][808]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2022.11.03-06.01.26:524][837]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2022.11.03-06.01.26:757][859]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-06.01.26:757][859]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-06.01.26:819][865]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2022.11.03-06.01.27:124][893]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2022.11.03-06.01.27:419][920]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2022.11.03-06.01.27:722][948]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2022.11.03-06.01.28:022][976]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2022.11.03-06.01.28:323][  4]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2022.11.03-06.01.28:621][ 32]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2022.11.03-06.01.28:917][ 60]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2022.11.03-06.01.29:222][ 89]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2022.11.03-06.01.29:522][118]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2022.11.03-06.01.29:818][147]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2022.11.03-06.01.30:126][177]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2022.11.03-06.01.30:423][206]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2022.11.03-06.01.30:723][236]LogBlueprintUserMessages: [BPC_Movement] 20.0
+[2022.11.03-06.01.30:893][253]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-06.01.30:893][253]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-06.01.34:474][617]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-06.01.34:474][617]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-06.01.36:903][851]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.03-06.01.36:903][851]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.03-06.01.38:148][968]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.03-06.01.38:148][968]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.03-06.01.41:020][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.03-06.01.41:020][229]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.11.03-06.01.41:020][229]LogSlate: Window 'UdemyHorrorGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.03-06.01.41:042][229]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.03-06.01.41:042][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-06.01.41:052][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.03-06.01.41:055][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.03-06.01.41:060][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.03-06.01.41:061][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.03-06.01.41:066][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.03-06.01.41:095][230]LogPlayLevel: Display: Destroying online subsystem :Context_4
